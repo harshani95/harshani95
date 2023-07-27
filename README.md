@@ -1,4 +1,4 @@
-<img src="https://github.com/harshani95/harshani95/blob/main/harshani.jpg" height="350" width="1000">
+
 <h1 align="center">Hi 👋, I'm Ruwanthika Harshani</h1>
 <h3 align="center">Front End Developer</h3>
 
