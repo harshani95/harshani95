@@ -7,7 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshani95&label=Profile%20views&color=0e75b6&style=flat" alt="harshani95" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://harshani95.github.io/Portfolio/](https://harshani95.github.io/Portfolio/)
 
 - 📫 How to reach me **ruwanthikapemarathna@gmail.com**
 
