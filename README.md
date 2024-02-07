@@ -7,8 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshani95&label=Profile%20views&color=0e75b6&style=flat" alt="harshani95" /> </p>
 
-- - 📫 How to reach me **ruwanthikapemarathna@gmail.com**
-- - 💬 Ask me about **Java,JS,HTML,CSS,TS**
+-  📫 How to reach me **ruwanthikapemarathna@gmail.com**
+-  💬 Ask me about **Java,JS,HTML,CSS,TS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,3 +35,5 @@
 </p><br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshani95&show_icons=true&locale=en&layout=compact" alt="harshani95" /></p>
+<!--<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=harshani95&show_icons=true&locale=en" alt="harshani95" /></p>-->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshani95&" alt="harshani95" /></p>
