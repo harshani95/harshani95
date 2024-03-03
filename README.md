@@ -22,13 +22,13 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,express,html,js,css,ts,java,jquery,mongodb,mysql,nodejs,react,angular,spring,cpp" />
+    <img src="https://skillicons.dev/icons?i=html,bootstrap,express,js,css,ts,java,jquery,mongodb,mysql,nodejs,react,angular,spring,cpp" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,idea,postman,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,androidstudio" />
   </a>
 </p>
 <br/>
