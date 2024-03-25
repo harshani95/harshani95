@@ -7,6 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshani95&label=Profile%20views&color=0e75b6&style=flat" alt="harshani95" /> </p>
 
+-  🌱 I’m currently learning **AWS**
+  
 -  📫 How to reach me **ruwanthikapemarathna@gmail.com**
   
 -  💬 Ask me about **Java, JavaScript, HTML, CSS**
