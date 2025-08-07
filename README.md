@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshani95&label=Profile%20views&color=0e75b6&style=flat" alt="harshani95" /> </p>
 
--  🌱 I’m currently learning **React JS, SpringBoot** 
+-  🌱 I’m currently learning **Python** 
   
 -  📫 How to reach me **ruwanthikapemarathna@gmail.com**
   
